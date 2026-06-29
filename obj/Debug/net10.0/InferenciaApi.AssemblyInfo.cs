@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InferenciaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32de55965043d8d8159e9a46e79f91da8b24785")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+026d34850e1833c3da9e228c6a9d27b6840a2f5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("InferenciaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InferenciaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
