@@ -1,11 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "jirDX3Vh3ug=",
+  "dgSpecHash": "BSlSZkA5yTo=",
   "success": true,
   "projectFilePath": "X:\\dev\\InferenciaApi\\InferenciaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronam\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
-    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.extensions.ambientmetadata.application\\10.7.0\\microsoft.extensions.ambientmetadata.application.10.7.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\10.7.0\\microsoft.extensions.compliance.abstractions.10.7.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.autoactivation\\10.7.0\\microsoft.extensions.dependencyinjection.autoactivation.10.7.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.extensions.diagnostics.exceptionsummarization\\10.7.0\\microsoft.extensions.diagnostics.exceptionsummarization.10.7.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.extensions.http.diagnostics\\10.7.0\\microsoft.extensions.http.diagnostics.10.7.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.extensions.http.resilience\\10.7.0\\microsoft.extensions.http.resilience.10.7.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.extensions.resilience\\10.7.0\\microsoft.extensions.resilience.10.7.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.extensions.telemetry\\10.7.0\\microsoft.extensions.telemetry.10.7.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\10.7.0\\microsoft.extensions.telemetry.abstractions.10.7.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\openai\\2.11.0\\openai.2.11.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\polly.core\\8.4.2\\polly.core.8.4.2.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\polly.extensions\\8.4.2\\polly.extensions.8.4.2.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\polly.ratelimiting\\8.4.2\\polly.ratelimiting.8.4.2.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\system.clientmodel\\1.10.0\\system.clientmodel.1.10.0.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\system.memory.data\\10.0.3\\system.memory.data.10.0.3.nupkg.sha512"
   ],
   "logs": []
 }
