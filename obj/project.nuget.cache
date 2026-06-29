@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jirDX3Vh3ug=",
+  "success": true,
+  "projectFilePath": "X:\\dev\\InferenciaApi\\InferenciaApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\ronam\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

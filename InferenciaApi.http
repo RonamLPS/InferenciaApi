@@ -1,0 +1,6 @@
+@InferenciaApi_HostAddress = http://localhost:5143
+
+GET {{InferenciaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
